@@ -388,7 +388,7 @@
 // console.log("Kun boshidan boshlab",Math.floor(a/3600),"soat tula utdi.");
 
 
-// ---------------------------------------------------------------Integer->9---------------------------------------------------------------->
+// ---------------------------------------------------------------Integer-<_9_>---------------------------------------------------------------->
 
 // Kun boshidan boshlab N sekund vaqt o`tti. Kun boshidan boshlab qancha minut va sekund o'tganini aniqlovchi programma tuzilsin.
 
