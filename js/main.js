@@ -380,7 +380,7 @@
 // console.log("Kun boshidan boshlab " ,Math.floor(a/60)," minut to`la o`tdi." );
 
 
-// ----------------------------------------------------------------Integer->8--------------------------------------------------------------->
+// ----------------------------------------------------------------Integer-<_8_>--------------------------------------------------------------->
 
 // Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha to'la soat o`tganligini aniqlovchi programma tuzilsin.
 
@@ -401,3 +401,5 @@
 
 // a=parseFloat(prompt("Kun boshidan boshlab necha sekund utganini kiriting"));
 // console.log("kun boshidan boshlab",Math.floor(a/3600),"soat",Math.floor(a/60)*60,"senund utdi");
+
+use
