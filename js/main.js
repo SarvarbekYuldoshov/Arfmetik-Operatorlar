@@ -320,7 +320,7 @@
 // a=a1+a10+a100;
 // console.log("a",a,"Uch xonali son yigindisi");
 
-// ---------------------------------------------------------------Integer->3---------------------------------------------------------->
+// ---------------------------------------------------------------Integer-<_3_>---------------------------------------------------------->
 
 // Uch xonali son berilgan. Uning raqamlarini teskari tartibda yozishdan hosil bo`lgan sonni aniqlovchi program tuzilsin.
 
