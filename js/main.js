@@ -357,7 +357,7 @@
         // var almashtrilgan=a1*10+a10+a100*100;
         // console.log("almashtrilgan=",almashtrilgan);
 
-// ----------------------------------------------------------------Integer->6------------------------------------------------------------->
+// ----------------------------------------------------------------Integer-<_6_>------------------------------------------------------------->
 
 // 999 dan katta bo`lgan son berilgan. Bir marta bo`lib butunni va bo`lib qoldiqni olish operatsiyasidan foydalanib berilgan sonni mingliklar xonasidagi sonni aniqlovchi programma tuzilsin.
 // Input: 98123
