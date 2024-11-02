@@ -345,7 +345,7 @@
 // var almashtrilgan=a1*100+a10+a100*10;
 // console.log("almashtrilgan=",almashtrilgan);
 
-// ---------------------------------------------------------------Integer->5----------------------------------------------------------->
+// ---------------------------------------------------------------Integer-<_5_>----------------------------------------------------------->
 
 // Uch xonali son berilgan. Uning o`nliklar xonasidagi raqam bilan birliklar xonasidagi raqamni almashtirishdan
 //  hosil bo`lgan sonni aniqlovchi programma tuzilsin.
