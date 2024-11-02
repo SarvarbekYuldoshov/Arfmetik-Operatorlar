@@ -278,7 +278,7 @@
 // console.log(" 1kg olma",Y/B);
 // console.log(" Abdulaziz jami",X/A+Y/B,"sumlik savdo qilgan");
 
-// --------------------------------------------------------------Integer->1----------------------------------------------------------->
+// --------------------------------------------------------------Integer-<_1_>----------------------------------------------------------->
 
 // Uch xonali son berilgan. Oldin uni birliklar xonasidagi raqamni so`ng o`nliklar xonasidagi raqamni chiqaruvchi programma tuzilsin.
 
