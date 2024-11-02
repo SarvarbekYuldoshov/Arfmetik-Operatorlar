@@ -331,7 +331,7 @@
 //  var teskari=a1*100+a10*10+a100;
 // console.log("teskari=",teskari);
 
-// ---------------------------------------------------------------Integer->4----------------------------------------------------------->
+// ---------------------------------------------------------------Integer-<_4_>----------------------------------------------------------->
 
 // Uch xonali son berilgan. Uning o`nliklar xonasidagi raqam bilan yuzliklar xonasidagi raqamni almashtirishdan ,
 // hosil bo`lgan sonni aniqlovchi programma tuzilsin. 
